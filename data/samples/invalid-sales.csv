@@ -1,0 +1,3 @@
+date,sku,units_sold,unit_price
+2026-01-01,A,-2,145
+not-a-date,A,4,145

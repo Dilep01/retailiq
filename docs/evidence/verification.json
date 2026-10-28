@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-28",
+  "python": "3.12.14",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "cpu": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+  "logical_cpus": 12,
+  "checks": [
+    {
+      "command": "python manage.py check",
+      "exit_code": 0,
+      "seconds": 3.05
+    },
+    {
+      "command": "python manage.py makemigrations --check --dry-run",
+      "exit_code": 0,
+      "seconds": 3.19
+    },
+    {
+      "command": "python -m ruff check .",
+      "exit_code": 0,
+      "seconds": 0.21
+    },
+    {
+      "command": "python -m pytest --cov=retailiq --cov-report=json:.runtime/coverage.json --junitxml=docs/evidence/test-results.xml",
+      "exit_code": 0,
+      "seconds": 19.4
+    }
+  ],
+  "tests": {
+    "tests": 63,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "coverage_percent": 74.13223140495867,
+  "backup_restore": {
+    "integrity": "ok",
+    "foreign_keys": "ok",
+    "django_with_backup": "passed",
+    "django_data_read": "passed",
+    "row_counts": {
+      "retailiq_dataset": 2,
+      "retailiq_sale": 22060,
+      "retailiq_forecastrun": 3,
+      "retailiq_forecastpoint": 1680,
+      "retailiq_plan": 3,
+      "retailiq_simulation": 2
+    }
+  },
+  "http_in_process_timings": {
+    "/": {
+      "median_ms": 92.55,
+      "max_of_5_ms": 1859.36
+    },
+    "/products/": {
+      "median_ms": 16.72,
+      "max_of_5_ms": 18.57
+    },
+    "/forecasts/": {
+      "median_ms": 21.43,
+      "max_of_5_ms": 23.68
+    },
+    "/inventory/": {
+      "median_ms": 25.59,
+      "max_of_5_ms": 41.13
+    },
+    "/scenarios/": {
+      "median_ms": 17.39,
+      "max_of_5_ms": 19.49
+    },
+    "/data/": {
+      "median_ms": 90.06,
+      "max_of_5_ms": 98.19
+    },
+    "/runs/": {
+      "median_ms": 20.91,
+      "max_of_5_ms": 22.02
+    }
+  },
+  "timing_limit": "Django in-process requests on this computer, five samples/page; excludes real network and browser rendering.",
+  "browser_review_reference": "Manual browser review on 2026-10-28: docs/VERIFICATION.md. Not rerun by this CLI script."
+}

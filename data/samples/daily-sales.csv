@@ -1,0 +1,481 @@
+date,sku,name,category,location,units_sold,unit_price,observation_status
+2026-01-01,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-01-01,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-01-02,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-01-02,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-01-03,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-01-03,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-01-04,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-01-04,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-01-05,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-01-05,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-01-06,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-01-06,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-01-07,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-01-07,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-01-08,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-01-08,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-01-09,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-01-09,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-01-10,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-01-10,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-01-11,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-01-11,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-01-12,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-01-12,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-01-13,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-01-13,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-01-14,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-01-14,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-01-15,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-01-15,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-01-16,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-01-16,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-01-17,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-01-17,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-01-18,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-01-18,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-01-19,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-01-19,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-01-20,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-01-20,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-01-21,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-01-21,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-01-22,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-01-22,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-01-23,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-01-23,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-01-24,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-01-24,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-01-25,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-01-25,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-01-26,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-01-26,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-01-27,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-01-27,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-01-28,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-01-28,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-01-29,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-01-29,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-01-30,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-01-30,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-01-31,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-01-31,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-02-01,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-02-01,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-02-02,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-02-02,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-02-03,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-02-03,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-02-04,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-02-04,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-02-05,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-02-05,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-02-06,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-02-06,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-02-07,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-02-07,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-02-08,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-02-08,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-02-09,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-02-09,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-02-10,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-02-10,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-02-11,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-02-11,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-02-12,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-02-12,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-02-13,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-02-13,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-02-14,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-02-14,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-02-15,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-02-15,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-02-16,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-02-16,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-02-17,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-02-17,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-02-18,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-02-18,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-02-19,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-02-19,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-02-20,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-02-20,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-02-21,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-02-21,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-02-22,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-02-22,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-02-23,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-02-23,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-02-24,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-02-24,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-02-25,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-02-25,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-02-26,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-02-26,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-02-27,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-02-27,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-02-28,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-02-28,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-03-01,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-03-01,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-03-02,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-03-02,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-03-03,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-03-03,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-03-04,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-03-04,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-03-05,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-03-05,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-03-06,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-03-06,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-03-07,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-03-07,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-03-08,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-03-08,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-03-09,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-03-09,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-03-10,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-03-10,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-03-11,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-03-11,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-03-12,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-03-12,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-03-13,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-03-13,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-03-14,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-03-14,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-03-15,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-03-15,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-03-16,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-03-16,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-03-17,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-03-17,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-03-18,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-03-18,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-03-19,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-03-19,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-03-20,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-03-20,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-03-21,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-03-21,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-03-22,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-03-22,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-03-23,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-03-23,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-03-24,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-03-24,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-03-25,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-03-25,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-03-26,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-03-26,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-03-27,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-03-27,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-03-28,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-03-28,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-03-29,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-03-29,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-03-30,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-03-30,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-03-31,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-03-31,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-04-01,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-04-01,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-04-02,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-04-02,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-04-03,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-04-03,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-04-04,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-04-04,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-04-05,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-04-05,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-04-06,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-04-06,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-04-07,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-04-07,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-04-08,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-04-08,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-04-09,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-04-09,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-04-10,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-04-10,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-04-11,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-04-11,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-04-12,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-04-12,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-04-13,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-04-13,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-04-14,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-04-14,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-04-15,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-04-15,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-04-16,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-04-16,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-04-17,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-04-17,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-04-18,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-04-18,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-04-19,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-04-19,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-04-20,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-04-20,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-04-21,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-04-21,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-04-22,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-04-22,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-04-23,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-04-23,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-04-24,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-04-24,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-04-25,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-04-25,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-04-26,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-04-26,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-04-27,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-04-27,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-04-28,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-04-28,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-04-29,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-04-29,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-04-30,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-04-30,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-05-01,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-05-01,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-05-02,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-05-02,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-05-03,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-05-03,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-05-04,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-05-04,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-05-05,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-05-05,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-05-06,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-05-06,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-05-07,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-05-07,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-05-08,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-05-08,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-05-09,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-05-09,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-05-10,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-05-10,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-05-11,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-05-11,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-05-12,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-05-12,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-05-13,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-05-13,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-05-14,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-05-14,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-05-15,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-05-15,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-05-16,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-05-16,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-05-17,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-05-17,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-05-18,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-05-18,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-05-19,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-05-19,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-05-20,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-05-20,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-05-21,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-05-21,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-05-22,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-05-22,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-05-23,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-05-23,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-05-24,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-05-24,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-05-25,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-05-25,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-05-26,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-05-26,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-05-27,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-05-27,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-05-28,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-05-28,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-05-29,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-05-29,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-05-30,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-05-30,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-05-31,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-05-31,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-06-01,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-06-01,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-06-02,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-06-02,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-06-03,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-06-03,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-06-04,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-06-04,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-06-05,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-06-05,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-06-06,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-06-06,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-06-07,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-06-07,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-06-08,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-06-08,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-06-09,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-06-09,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-06-10,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-06-10,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-06-11,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-06-11,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-06-12,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-06-12,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-06-13,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-06-13,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-06-14,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-06-14,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-06-15,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-06-15,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-06-16,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-06-16,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-06-17,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-06-17,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-06-18,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-06-18,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-06-19,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-06-19,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-06-20,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-06-20,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-06-21,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-06-21,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-06-22,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-06-22,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-06-23,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-06-23,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-06-24,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-06-24,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-06-25,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-06-25,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-06-26,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-06-26,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-06-27,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-06-27,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-06-28,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-06-28,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-06-29,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-06-29,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-06-30,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-06-30,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-07-01,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-07-01,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-07-02,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-07-02,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-07-03,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-07-03,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-07-04,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-07-04,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-07-05,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-07-05,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-07-06,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-07-06,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-07-07,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-07-07,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-07-08,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-07-08,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-07-09,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-07-09,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-07-10,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-07-10,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-07-11,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-07-11,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-07-12,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-07-12,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-07-13,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-07-13,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-07-14,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-07-14,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-07-15,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-07-15,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-07-16,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-07-16,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-07-17,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-07-17,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-07-18,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-07-18,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-07-19,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-07-19,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-07-20,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-07-20,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-07-21,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-07-21,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-07-22,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-07-22,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-07-23,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-07-23,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-07-24,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-07-24,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-07-25,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-07-25,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-07-26,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-07-26,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-07-27,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-07-27,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-07-28,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-07-28,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-07-29,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-07-29,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-07-30,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-07-30,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-07-31,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-07-31,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-08-01,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-08-01,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-08-02,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-08-02,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-08-03,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-08-03,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-08-04,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-08-04,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-08-05,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-08-05,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-08-06,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-08-06,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-08-07,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-08-07,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-08-08,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-08-08,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-08-09,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-08-09,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-08-10,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-08-10,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-08-11,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-08-11,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-08-12,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-08-12,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-08-13,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-08-13,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-08-14,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-08-14,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-08-15,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-08-15,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-08-16,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-08-16,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-08-17,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-08-17,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-08-18,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-08-18,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-08-19,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-08-19,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-08-20,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-08-20,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-08-21,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-08-21,DEMO-02,Coffee,Sample,Main store,10,320,observed
+2026-08-22,DEMO-01,Oat milk,Sample,Main store,16,145,observed
+2026-08-22,DEMO-02,Coffee,Sample,Main store,12,320,observed
+2026-08-23,DEMO-01,Oat milk,Sample,Main store,18,145,observed
+2026-08-23,DEMO-02,Coffee,Sample,Main store,14,320,observed
+2026-08-24,DEMO-01,Oat milk,Sample,Main store,20,145,observed
+2026-08-24,DEMO-02,Coffee,Sample,Main store,16,320,observed
+2026-08-25,DEMO-01,Oat milk,Sample,Main store,22,145,observed
+2026-08-25,DEMO-02,Coffee,Sample,Main store,18,320,observed
+2026-08-26,DEMO-01,Oat milk,Sample,Main store,24,145,observed
+2026-08-26,DEMO-02,Coffee,Sample,Main store,20,320,observed
+2026-08-27,DEMO-01,Oat milk,Sample,Main store,12,145,observed
+2026-08-27,DEMO-02,Coffee,Sample,Main store,8,320,observed
+2026-08-28,DEMO-01,Oat milk,Sample,Main store,14,145,observed
+2026-08-28,DEMO-02,Coffee,Sample,Main store,10,320,observed
