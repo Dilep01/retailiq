@@ -17,4 +17,6 @@ Status: local v1 implemented for review. The original blueprint remains a plan; 
 | 10 Local release | Debug-off Waitress/WhiteNoise, persistent worker, start/stop scripts, health check and verified backup inspection. |
 | 11 Presentation | README, architecture, data/model cards, measured report, desktop/mobile screenshots, captured-screen walkthrough video, resume wording and live-demo script. |
 
-Boundaries: no public hosting, remote GitHub publication, live business trial, continuous live screencast, PostgreSQL migration, cumulative-demand calibration, hierarchical reconciliation, customer multi-tenancy, dated operational PO ledger or supplier integration. These optional/operational extensions are not represented as completed features. GitHub publication and a continuous live recording can follow the user's review.
+The source is published privately at [Dilep01/retailiq](https://github.com/Dilep01/retailiq).
+
+Boundaries: no public app hosting, live business trial, continuous live screencast, PostgreSQL migration, cumulative-demand calibration, hierarchical reconciliation, customer multi-tenancy, dated operational PO ledger or supplier integration. These optional/operational extensions are not represented as completed features. A continuous live recording and public visibility can follow the user's review.

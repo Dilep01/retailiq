@@ -4,7 +4,7 @@
 
 Suggested repository name: `retailiq`. Use the README screenshot as the cover. Include source, migrations, exact dependency locks, tests, tiny synthetic samples, architecture, cards and measured evidence. Exclude runtime accounts, keys, raw data, local databases, model binaries and caches. The GitHub Actions workflow is prepared; it has not run remotely until the repository is published.
 
-This delivery prepares local files for review. It does not publish a new repository or modify the existing portfolio.
+The source repository is [Dilep01/retailiq](https://github.com/Dilep01/retailiq), published privately for account-owner review. The existing portfolio website has not been modified.
 
 ## Portfolio description
 
