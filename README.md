@@ -81,7 +81,7 @@ Inventory v1 uses aggregate on-order stock, assumed to arrive before needed. It 
 .\.venv\Scripts\python.exe manage.py backup_workspace
 ```
 
-Tests cover data integrity, future-data perturbation, training cutoffs, forecasting, budget feasibility, delivery timing, inventory conservation, replay reproducibility, protected pages, CSRF, exports, the public-data adapter and queued jobs. See [verification record](docs/VERIFICATION.md) for browser checks and recovery checks. CI is configured; a remote Actions pass must be verified after publication.
+Tests cover data integrity, future-data perturbation, training cutoffs, forecasting, budget feasibility, delivery timing, inventory conservation, replay reproducibility, protected pages, CSRF, exports, the public-data adapter and queued jobs. See [verification record](docs/VERIFICATION.md) for browser checks and recovery checks. [GitHub Actions](https://github.com/Dilep01/retailiq/actions) passed after publication; inspect it for the latest branch status.
 
 ## Review guide
 
