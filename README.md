@@ -2,7 +2,7 @@
 
 AI-powered retail sales forecasting and inventory planning, built with Python and Django. Runs locally without paid APIs, a hosted database, a GPU, or a frontend build service.
 
-Repository: [Dilep01/retailiq](https://github.com/Dilep01/retailiq). Published privately for account-owner review.
+Repository: [Dilep01/retailiq](https://github.com/Dilep01/retailiq). Public source and project documentation.
 
 ![RetailIQ workspace](docs/screenshots/overview-desktop.png)
 

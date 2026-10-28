@@ -4,7 +4,7 @@
 
 Repository name: `retailiq`. Use the README screenshot as the cover. Include source, migrations, exact dependency locks, tests, tiny synthetic samples, architecture, cards and measured evidence. Exclude runtime accounts, keys, raw data, local databases, model binaries and caches. The GitHub Actions workflow has passed after publication; inspect the repository's Actions page for current results.
 
-The source repository is [Dilep01/retailiq](https://github.com/Dilep01/retailiq), published privately for account-owner review. The existing portfolio website has not been modified.
+The public source repository is [Dilep01/retailiq](https://github.com/Dilep01/retailiq). The existing portfolio website has not been modified.
 
 ## Portfolio description
 
